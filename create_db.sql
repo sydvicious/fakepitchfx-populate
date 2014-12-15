@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS pitchfx_populate;
+USE pitchfx_populate;
+
 drop table if exists pitchfx_data;
 
 create table pitchfx_data (

@@ -2,7 +2,7 @@ require 'csv'
 require 'mysql'
 
 $i = 0
-$db = Mysql.new('localhost', 'root', 'royals', 'pitchfx_development')
+$db = Mysql.new('localhost', 'root', 'royals', 'pitchfx_populate')
 
 def read_csv(file)
   CSV.foreach(file) do |row|
