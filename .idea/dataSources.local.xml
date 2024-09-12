@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - pitchfx_development@172.16.81.147" uuid="960986bb-21a4-4ff3-bd39-3582c289759f">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>sydpolk</user-name>
+    </data-source>
+  </component>
+</project>
